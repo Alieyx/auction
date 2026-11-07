@@ -1,0 +1,2 @@
+TOKEN = 'YOUR TOKEN'
+DATABASE = 'data.db'
